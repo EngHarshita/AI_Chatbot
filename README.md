@@ -12,8 +12,11 @@ It is a Java-based Artificial Intelligence Chatbot that interacts with users thr
 
 🔧 Technologies Used
 1.Java
+
 2.Java Swing (for GUI)
+
 3.Simple NLP logic (String matching and keyword recognition)
+
 4.Rule-based response system
 
 🛠️ How It Works
